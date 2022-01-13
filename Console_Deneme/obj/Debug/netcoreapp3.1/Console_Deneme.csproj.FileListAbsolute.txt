@@ -1,0 +1,13 @@
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\bin\Debug\netcoreapp3.1\Console_Deneme.exe
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\bin\Debug\netcoreapp3.1\Console_Deneme.deps.json
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\bin\Debug\netcoreapp3.1\Console_Deneme.runtimeconfig.json
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\bin\Debug\netcoreapp3.1\Console_Deneme.runtimeconfig.dev.json
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\bin\Debug\netcoreapp3.1\Console_Deneme.dll
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\bin\Debug\netcoreapp3.1\Console_Deneme.pdb
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.csprojAssemblyReference.cache
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.AssemblyInfoInputs.cache
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.AssemblyInfo.cs
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.csproj.CoreCompileInputs.cache
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.dll
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.pdb
+D:\AbdullahWorkspace\GenVision_Examples\Console_Deneme\obj\Debug\netcoreapp3.1\Console_Deneme.genruntimeconfig.cache
